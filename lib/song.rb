@@ -1,4 +1,4 @@
-require_relative "./interactive_record.rb"
+cdrequire_relative "./interactive_record.rb"
 
 class Song < InteractiveRecord
 
